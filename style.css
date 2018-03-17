@@ -204,6 +204,9 @@ a:hover {
 	position: relative;
 }
 
+.container-bottom img {
+	width:100%;
+}
 
 .bottom-text {
 	background-color: rgba(250,250,250,0.2);
