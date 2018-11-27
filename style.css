@@ -5,6 +5,7 @@ body {
 	font-family: 'Roboto', sans-serif;
 }
 
+
 h3 {
 	font-size: 30px;
 	text-transform: uppercase;
@@ -126,8 +127,8 @@ a:hover {
 
 .container-top {
 	background-color: #dfdfdf;
-	padding-top: 20px;
-	padding-bottom: 20px;
+	padding-top: 60px;
+	padding-bottom: 60px;
 	overflow: hidden;
 }
 
@@ -198,15 +199,16 @@ a:hover {
 	font-weight: 600;
 }
 
+.panorama img {
+	width:100%;
+}
+
 /*********************CONTAINER-BOTTOM*******************************/
 
 .container-bottom {
 	position: relative;
 }
 
-.container-bottom img {
-	width:100%;
-}
 
 .bottom-text {
 	background-color: rgba(250,250,250,0.2);
